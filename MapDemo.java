@@ -26,6 +26,9 @@ Iterator itr = s.iterator();
 while(itr.hasNext()) {
 	Map.Entry me = (Map.Entry) itr.next();
 	System.out.println(me.getKey() + " " + me.getValue());
+	
+	
+	// This is my Java project about collection, especially on Map
 }
 
 
